@@ -4,7 +4,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nihatcancivi.visitor-badge)
 
-![Nihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihatcancivi&show_icons=true&theme=radical)
+![Nihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihatcancivi&show_icons=true&theme=tokyonight)
 
 
 <!--
