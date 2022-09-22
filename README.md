@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Java and SpringBoot.
+🌱 I’m currently learning Java and Spring Framework.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nihatcancivi.visitor-badge)
 
